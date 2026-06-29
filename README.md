@@ -1,0 +1,2 @@
+# NEOSSH-CALCULATOR-DESKTOP_VERSION
+NEOSSH desktop version (Python)
